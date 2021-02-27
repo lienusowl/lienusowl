@@ -11,6 +11,10 @@
 <body>
     @include('blocks.header')
 
+    <div class="main-content">
+        @yield('content')
+    </div>
+
     @include('blocks.footer')
     @include('blocks.scripts')
 </body>
