@@ -114,7 +114,6 @@
                             <div class="skill"><p>MODX Evo</p></div>
                         </div>
                         <div class="col-lg-2">
-                            <div class="skill"><p>Прочее</p></div>
                             <div class="skill"><p>Ubuntu Server</p></div>
                             <div class="skill"><p>webpack</p></div>
                             <div class="skill"><p>nginx</p></div>
