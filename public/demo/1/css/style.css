@@ -109,6 +109,9 @@ body{
 .movie__average--red{
     border: 1px solid red;
 }
+.movie__average--none{
+    display: none !important;
+}
 
 
 

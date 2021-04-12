@@ -17,7 +17,9 @@ async function getMovies(url) {
 getMovies(API_URL);
 
 function getClassByRate(rate){
-    return (rate >= 7) ? 'green' : (rate <= 5) ? 'red' : 'yellow';
+    return (rate >= 7) ? 'green' :
+           (rate <= 5) ? 'red' :
+           (!rate)     ? 'none' : 'yellow';
 }
 
 function showMovies(data){
