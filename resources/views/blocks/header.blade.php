@@ -8,7 +8,8 @@
         </div>
         <div class="header_menu">
             <ul>
-                <li><a href="#">Проекты</a></li>
+                <li><a href="#">Всячина</a></li>
+{{--                <li><a href="#">Проекты</a></li>--}}
                 <li><a href="/cv">CV</a></li>
             </ul>
         </div>
