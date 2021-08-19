@@ -1,10 +1,37 @@
-# lienusowl
+# Position: Frontend developer
 
-`http://zsws.ru`
+## Specialization:
 
-`http://lienusowl.ru`
+### Primary:
+![JS](https://img.shields.io/badge/-JS-454443?style=for-the-badge&logo=javascript)
+![CSS](https://img.shields.io/badge/-CSS-454443?style=for-the-badge&logo=css3)
+![VueJs](https://img.shields.io/badge/-VueJS-454443?style=for-the-badge&logo=vue.js)
+![Git](https://img.shields.io/badge/-git-454443?style=for-the-badge&logo=git)
 
-`http://skillowl.ru`
+`webpack` `docker` `sass` `BEM` `Figma`
 
-текущие скилы: webpack, docker, git, css3, scss, es5, es6, vue, ssr, figma, photoshop
 
+### Secondary
+
+
+* Location: Russia, Kirov
+* You can see my projects in pinned repositories - [HERE](https://github.com/lienusowl?tab=repositories) or follow the links below:
+
+http://zsws.ru
+
+http://lienusowl.ru
+
+http://skillowl.ru
+
+## Contacts:
+- https://www.linkedin.com/in/lienusowl/
+- https://t.me/lienusowl
+- lienusowl@yandex.ru
+
+
+
+![Codewars](https://www.codewars.com/users/lienusowl/badges/small)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lienusowl&show_icons=true&theme=tokyonight&layout=compact)](https://github.com/lienusowl?tab=repositories)
+
+❤ Nikiforov Aleksandr
