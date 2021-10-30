@@ -17,11 +17,7 @@
 * Location: Russia, Kirov
 * You can see my projects in pinned repositories - [HERE](https://github.com/lienusowl?tab=repositories) or follow the links below:
 
-http://zsws.ru
-
 http://lienusowl.ru
-
-http://skillowl.ru
 
 ## Contacts:
 - https://www.linkedin.com/in/lienusowl/
