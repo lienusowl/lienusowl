@@ -8,7 +8,7 @@
 ![VueJs](https://img.shields.io/badge/-VueJS-454443?style=for-the-badge&logo=vue.js)
 ![Git](https://img.shields.io/badge/-git-454443?style=for-the-badge&logo=git)
 
-`webpack` `docker` `sass` `BEM` `Figma`
+`js` `scss` `webpack` `docker`
 
 
 ### Secondary
