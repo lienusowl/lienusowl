@@ -2,6 +2,8 @@
 
 ## Specialization:
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lienusowl&show_icons=true&theme=tokyonight&layout=compact)](https://github.com/lienusowl?tab=repositories)
+
 ### Primary:
 ![JS](https://img.shields.io/badge/-JS-454443?style=for-the-badge&logo=javascript)
 ![CSS](https://img.shields.io/badge/-CSS-454443?style=for-the-badge&logo=css3)
@@ -9,7 +11,6 @@
 ![Git](https://img.shields.io/badge/-git-454443?style=for-the-badge&logo=git)
 
 `js` `scss` `webpack` `docker`
-
 
 ### Secondary
 
@@ -24,10 +25,6 @@ http://lienusowl.ru
 - https://t.me/lienusowl
 - lienusowl@yandex.ru
 
-
-
 ![Codewars](https://www.codewars.com/users/lienusowl/badges/small)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lienusowl&show_icons=true&theme=tokyonight&layout=compact)](https://github.com/lienusowl?tab=repositories)
 
 ❤ Nikiforov Aleksandr
