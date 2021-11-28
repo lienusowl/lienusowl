@@ -22,7 +22,14 @@ export default {
         getNow: function() {
             const today = new Date();
 
-            this.currentTime = today.getHours() + ":" + today.getMinutes() + ":" + today.getSeconds();
+            const hours = today.getHours();
+            let minutes = today.getMinutes();
+            let seconds = today.getSeconds();
+
+            if (minutes < 10) minutes = '0' + minutes;
+            if (seconds < 10) seconds = '0' + seconds;
+
+            this.currentTime = hours + ":" + minutes + ":" + seconds;
         },
 
     },
