@@ -4,6 +4,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lienusowl&show_icons=true&theme=tokyonight&layout=compact)](https://github.com/lienusowl?tab=repositories)
 
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=lienusowl&show_icons=true&hide_title=true" alt="zhashkevych" />
+
 ### Primary:
 ![JS](https://img.shields.io/badge/-JS-454443?style=for-the-badge&logo=javascript)
 ![CSS](https://img.shields.io/badge/-CSS-454443?style=for-the-badge&logo=css3)
